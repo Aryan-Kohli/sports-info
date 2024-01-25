@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+.mainsingle{
+  border:1px solid black;
+  padding: 20px 10px;
+  font-size: 1rem;
+  color:pink;
+  background-color: black;
+  border:2px  solid pink;
+  font-family: 'Merriweather', serif;
+}
+body{
+  background:black;
+  font-family: 'Merriweather', serif;
+  color: wheat;
+}
+.matchnames{
+  font-size: 1.5rem !important;
+font-family: 'Single Day', cursive;}
+.vs{
+  font-size: 2rem;
+font-family: 'Rubik Burned', system-ui;
+}
+.container{
+  height: 90vh;
+  overflow-y: scroll;
+}
